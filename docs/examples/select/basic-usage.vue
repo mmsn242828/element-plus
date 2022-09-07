@@ -32,7 +32,7 @@ const value = ref('')
 
 const options = [
   {
-    value: 'Option1',
+    value: 'Op1',
     label: 'Option1',
   },
   {
